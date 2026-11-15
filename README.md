@@ -272,6 +272,6 @@ npm run desktop:pack:mac   # 必须在 Mac 上运行；签名和公证另行配�
 ## 许可 / License
 
 - 代码采用 [Apache License 2.0](LICENSE)：可以自由使用、修改、再发布，包括商用。
-- 版权所有 © 2026 Zhang YK（hello.yk.zhang@gmail.com），见 [NOTICE](NOTICE)。
+- 版权所有 © 2026 ZHANG YUNKUAN（hello.yk.zhang@gmail.com），见 [NOTICE](NOTICE)。
 - 「Stetwise」名称和图标不在代码许可范围内：发布修改版请换名换图标，详见 [TRADEMARKS.md](TRADEMARKS.md)。
 - 欢迎在本仓库共建，提交方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。第三方组件许可见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。

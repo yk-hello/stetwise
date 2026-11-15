@@ -6,7 +6,7 @@
   "type": "module",
   "main": "electron/main.cjs",
   "description": "Stetwise — review AI-written documents: read, mark, hand to your AI, review every change",
-  "author": "Zhang YK <hello.yk.zhang@gmail.com>",
+  "author": "ZHANG YUNKUAN <hello.yk.zhang@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
