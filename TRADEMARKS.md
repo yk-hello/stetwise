@@ -13,7 +13,7 @@ how the name "Stetwise" and the logo may be used.
 - keep the name and logo in a fork that you use to prepare pull requests for
   the official repository.
 
-**Please do not, without written permission from Zhang YK**
+**Please do not, without written permission from ZHANG YUNKUAN**
 
 - publish builds, installers, app store listings, packages, websites or
   services named "Stetwise" (or a confusingly similar name), or with the
